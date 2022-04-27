@@ -1,0 +1,19 @@
+2022-04-27 05:07:11,331	Batch Processor	INFO	Config file loaded and logger created.
+2022-04-27 05:07:11,337	Batch Processor	INFO	18 scenarios skipped.
+2022-04-27 05:07:11,338	Batch Processor	INFO	ScenarioLoader Mode <RANDOM>
+2022-04-27 05:07:11,340	Batch Processor	INFO	Processing 1 scenarios:
+2022-04-27 05:07:11,343	Batch Processor	INFO	   1 GRC_Perama-2_2_T-1
+2022-04-27 05:07:11,359	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2022-04-27 05:07:11,365	Batch Processor	INFO	Motion planner: student
+2022-04-27 05:07:11,396	Batch Processor	INFO	Number of parallel processes: 2
+2022-04-27 05:07:12,087	Batch Processor	INFO	==============================        Search Results        ==============================
+2022-04-27 05:07:12,091	Batch Processor	INFO	==============================      Exception occurred      ==============================
+	- GRC_Perama-2_2_T-1
+2022-04-27 05:07:12,095	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2022-04-27 05:07:12,098	Batch Processor	INFO	Total number of scenarios:  	         1
+2022-04-27 05:07:12,101	Batch Processor	INFO	Solution found:               	         0
+2022-04-27 05:07:12,104	Batch Processor	INFO	Solution found but invalid:   	         0
+2022-04-27 05:07:12,106	Batch Processor	INFO	Solution not found:           	         0
+2022-04-27 05:07:12,108	Batch Processor	INFO	Exception occurred:           	         1
+2022-04-27 05:07:12,111	Batch Processor	INFO	Time out:                     	         0

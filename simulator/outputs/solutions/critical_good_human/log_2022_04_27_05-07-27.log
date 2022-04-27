@@ -1,0 +1,19 @@
+2022-04-27 05:07:27,588	Batch Processor	INFO	Config file loaded and logger created.
+2022-04-27 05:07:27,592	Batch Processor	INFO	18 scenarios skipped.
+2022-04-27 05:07:27,594	Batch Processor	INFO	ScenarioLoader Mode <RANDOM>
+2022-04-27 05:07:27,595	Batch Processor	INFO	Processing 1 scenarios:
+2022-04-27 05:07:27,596	Batch Processor	INFO	   1 ITA_Foggia-7_2_T-1
+2022-04-27 05:07:27,608	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2022-04-27 05:07:27,610	Batch Processor	INFO	Motion planner: student
+2022-04-27 05:07:27,642	Batch Processor	INFO	Number of parallel processes: 2
+2022-04-27 05:07:29,852	Batch Processor	INFO	==============================        Search Results        ==============================
+2022-04-27 05:07:29,855	Batch Processor	INFO	==============================      Exception occurred      ==============================
+	- ITA_Foggia-7_2_T-1
+2022-04-27 05:07:29,857	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2022-04-27 05:07:29,858	Batch Processor	INFO	Total number of scenarios:  	         1
+2022-04-27 05:07:29,860	Batch Processor	INFO	Solution found:               	         0
+2022-04-27 05:07:29,862	Batch Processor	INFO	Solution found but invalid:   	         0
+2022-04-27 05:07:29,864	Batch Processor	INFO	Solution not found:           	         0
+2022-04-27 05:07:29,866	Batch Processor	INFO	Exception occurred:           	         1
+2022-04-27 05:07:29,868	Batch Processor	INFO	Time out:                     	         0

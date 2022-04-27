@@ -1,0 +1,19 @@
+2022-04-27 05:17:05,934	Batch Processor	INFO	Config file loaded and logger created.
+2022-04-27 05:17:05,941	Batch Processor	INFO	18 scenarios skipped.
+2022-04-27 05:17:05,943	Batch Processor	INFO	ScenarioLoader Mode <RANDOM>
+2022-04-27 05:17:05,944	Batch Processor	INFO	Processing 1 scenarios:
+2022-04-27 05:17:05,946	Batch Processor	INFO	   1 ARG_Carcarana-1_2_T-1
+2022-04-27 05:17:05,957	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2022-04-27 05:17:05,959	Batch Processor	INFO	Motion planner: student
+2022-04-27 05:17:05,990	Batch Processor	INFO	Number of parallel processes: 2
+2022-04-27 05:17:07,717	Batch Processor	INFO	==============================        Search Results        ==============================
+2022-04-27 05:17:07,721	Batch Processor	INFO	==============================      Exception occurred      ==============================
+	- ARG_Carcarana-1_2_T-1
+2022-04-27 05:17:07,722	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2022-04-27 05:17:07,724	Batch Processor	INFO	Total number of scenarios:  	         1
+2022-04-27 05:17:07,726	Batch Processor	INFO	Solution found:               	         0
+2022-04-27 05:17:07,729	Batch Processor	INFO	Solution found but invalid:   	         0
+2022-04-27 05:17:07,732	Batch Processor	INFO	Solution not found:           	         0
+2022-04-27 05:17:07,733	Batch Processor	INFO	Exception occurred:           	         1
+2022-04-27 05:17:07,736	Batch Processor	INFO	Time out:                     	         0

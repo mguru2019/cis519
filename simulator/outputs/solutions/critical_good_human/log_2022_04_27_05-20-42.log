@@ -1,0 +1,19 @@
+2022-04-27 05:20:42,301	Batch Processor	INFO	Config file loaded and logger created.
+2022-04-27 05:20:42,307	Batch Processor	INFO	18 scenarios skipped.
+2022-04-27 05:20:42,309	Batch Processor	INFO	ScenarioLoader Mode <RANDOM>
+2022-04-27 05:20:42,310	Batch Processor	INFO	Processing 1 scenarios:
+2022-04-27 05:20:42,311	Batch Processor	INFO	   1 ESP_SantBoideLlobregat-22_2_T-1
+2022-04-27 05:20:42,325	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2022-04-27 05:20:42,327	Batch Processor	INFO	Motion planner: student
+2022-04-27 05:20:42,350	Batch Processor	INFO	Number of parallel processes: 2
+2022-04-27 05:20:42,803	Batch Processor	INFO	==============================        Search Results        ==============================
+2022-04-27 05:20:42,810	Batch Processor	INFO	==============================      Exception occurred      ==============================
+	- ESP_SantBoideLlobregat-22_2_T-1
+2022-04-27 05:20:42,813	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2022-04-27 05:20:42,816	Batch Processor	INFO	Total number of scenarios:  	         1
+2022-04-27 05:20:42,818	Batch Processor	INFO	Solution found:               	         0
+2022-04-27 05:20:42,821	Batch Processor	INFO	Solution found but invalid:   	         0
+2022-04-27 05:20:42,824	Batch Processor	INFO	Solution not found:           	         0
+2022-04-27 05:20:42,827	Batch Processor	INFO	Exception occurred:           	         1
+2022-04-27 05:20:42,830	Batch Processor	INFO	Time out:                     	         0

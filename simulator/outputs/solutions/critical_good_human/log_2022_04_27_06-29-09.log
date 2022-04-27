@@ -1,0 +1,19 @@
+2022-04-27 06:29:09,508	Batch Processor	INFO	Config file loaded and logger created.
+2022-04-27 06:29:09,511	Batch Processor	INFO	18 scenarios skipped.
+2022-04-27 06:29:09,513	Batch Processor	INFO	ScenarioLoader Mode <RANDOM>
+2022-04-27 06:29:09,514	Batch Processor	INFO	Processing 1 scenarios:
+2022-04-27 06:29:09,516	Batch Processor	INFO	   1 BEL_Zaventem-3_1_T-1
+2022-04-27 06:29:09,528	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2022-04-27 06:29:09,530	Batch Processor	INFO	Motion planner: student
+2022-04-27 06:29:09,559	Batch Processor	INFO	Number of parallel processes: 2
+2022-04-27 06:29:10,063	Batch Processor	INFO	==============================        Search Results        ==============================
+2022-04-27 06:29:10,072	Batch Processor	INFO	==============================      Exception occurred      ==============================
+	- BEL_Zaventem-3_1_T-1
+2022-04-27 06:29:10,075	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2022-04-27 06:29:10,078	Batch Processor	INFO	Total number of scenarios:  	         1
+2022-04-27 06:29:10,082	Batch Processor	INFO	Solution found:               	         0
+2022-04-27 06:29:10,084	Batch Processor	INFO	Solution found but invalid:   	         0
+2022-04-27 06:29:10,088	Batch Processor	INFO	Solution not found:           	         0
+2022-04-27 06:29:10,091	Batch Processor	INFO	Exception occurred:           	         1
+2022-04-27 06:29:10,093	Batch Processor	INFO	Time out:                     	         0

@@ -1,0 +1,19 @@
+2022-04-27 06:52:10,647	Batch Processor	INFO	Config file loaded and logger created.
+2022-04-27 06:52:10,652	Batch Processor	INFO	18 scenarios skipped.
+2022-04-27 06:52:10,653	Batch Processor	INFO	ScenarioLoader Mode <RANDOM>
+2022-04-27 06:52:10,655	Batch Processor	INFO	Processing 1 scenarios:
+2022-04-27 06:52:10,656	Batch Processor	INFO	   1 DEU_Flensburg-69_1_T-1
+2022-04-27 06:52:10,673	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2022-04-27 06:52:10,675	Batch Processor	INFO	Motion planner: student
+2022-04-27 06:52:10,707	Batch Processor	INFO	Number of parallel processes: 2
+2022-04-27 06:52:11,890	Batch Processor	INFO	==============================        Search Results        ==============================
+2022-04-27 06:52:11,896	Batch Processor	INFO	==============================      Exception occurred      ==============================
+	- DEU_Flensburg-69_1_T-1
+2022-04-27 06:52:11,902	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2022-04-27 06:52:11,904	Batch Processor	INFO	Total number of scenarios:  	         1
+2022-04-27 06:52:11,908	Batch Processor	INFO	Solution found:               	         0
+2022-04-27 06:52:11,910	Batch Processor	INFO	Solution found but invalid:   	         0
+2022-04-27 06:52:11,913	Batch Processor	INFO	Solution not found:           	         0
+2022-04-27 06:52:11,916	Batch Processor	INFO	Exception occurred:           	         1
+2022-04-27 06:52:11,920	Batch Processor	INFO	Time out:                     	         0

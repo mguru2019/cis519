@@ -1,0 +1,19 @@
+2022-04-27 06:53:58,563	Batch Processor	INFO	Config file loaded and logger created.
+2022-04-27 06:53:58,567	Batch Processor	INFO	18 scenarios skipped.
+2022-04-27 06:53:58,568	Batch Processor	INFO	ScenarioLoader Mode <RANDOM>
+2022-04-27 06:53:58,570	Batch Processor	INFO	Processing 1 scenarios:
+2022-04-27 06:53:58,571	Batch Processor	INFO	   1 ESP_PriegodeCordoba-1_1_T-1
+2022-04-27 06:53:58,583	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2022-04-27 06:53:58,585	Batch Processor	INFO	Motion planner: student
+2022-04-27 06:53:58,614	Batch Processor	INFO	Number of parallel processes: 2
+2022-04-27 06:53:59,419	Batch Processor	INFO	==============================        Search Results        ==============================
+2022-04-27 06:53:59,425	Batch Processor	INFO	==============================      Exception occurred      ==============================
+	- ESP_PriegodeCordoba-1_1_T-1
+2022-04-27 06:53:59,428	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2022-04-27 06:53:59,430	Batch Processor	INFO	Total number of scenarios:  	         1
+2022-04-27 06:53:59,431	Batch Processor	INFO	Solution found:               	         0
+2022-04-27 06:53:59,433	Batch Processor	INFO	Solution found but invalid:   	         0
+2022-04-27 06:53:59,435	Batch Processor	INFO	Solution not found:           	         0
+2022-04-27 06:53:59,436	Batch Processor	INFO	Exception occurred:           	         1
+2022-04-27 06:53:59,439	Batch Processor	INFO	Time out:                     	         0

@@ -3,9 +3,9 @@
 # setting
 setting:
   # input directory of your intended CommonRoad scenarios
-  input_path: ../../scenarios/exercise/
+  input_path: ../../scenarios/critical/
   # output directory of CommonRoad solution files
-  output_path: ../../outputs/solutions/
+  output_path: ../../outputs/solutions/critical_good_human
   # overwrite solution file if it already exists
   overwrite: True
   # validate solution with the feasibility checker
@@ -13,7 +13,7 @@ setting:
 
   # create gif files for valid solutions
   create_gif: False
-  output_path_gif: ../../outputs/gifs
+  output_path_gif: ../../outputs/gifs/critical_good_human
 
   # choose the number of parallel executions of motion planners
   # the valid range is [1, max number of cpus on your system]
@@ -22,7 +22,7 @@ setting:
 # logging
 logging:
   log_to_file: True
-  log_file_dir: ../../outputs/logs
+  log_file_dir: ../../outputs/logs/critical_good_human
   log_file_name: log
   add_timestamp_to_log_file: True
 
@@ -40,7 +40,7 @@ default: &default # create an anchor point for default parameters
   cost_function: SM1
   # the planner that is used to solve for solutions.
   # possible values are: bfs, dfs, dls, ucs, gbfs, astar, student, student_example
-  planner: astar
+  planner: student
   # planning problem index. for cooperative scenarios: 0, 1, 2, ..., otherwise: 0
   planning_problem_idx: 0
   # maximum depth of the search tree
@@ -68,7 +68,7 @@ scenario_loader:
   inputmode: DEFAULT
 
   # number of scenarios to be randomly selected. this only works for inputmode set to RANDOM
-  random_count: 3
+  random_count: 1
 
   # specific scenarios to be tested. this only works for inputmode set to SPECIFIC
   # if the given list is empty, all scenarios will be loaded

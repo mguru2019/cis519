@@ -1,0 +1,19 @@
+2022-04-27 06:55:47,487	Batch Processor	INFO	Config file loaded and logger created.
+2022-04-27 06:55:47,492	Batch Processor	INFO	18 scenarios skipped.
+2022-04-27 06:55:47,493	Batch Processor	INFO	ScenarioLoader Mode <RANDOM>
+2022-04-27 06:55:47,495	Batch Processor	INFO	Processing 1 scenarios:
+2022-04-27 06:55:47,496	Batch Processor	INFO	   1 PRI_Barceloneta-1_3_T-1
+2022-04-27 06:55:47,506	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2022-04-27 06:55:47,508	Batch Processor	INFO	Motion planner: student
+2022-04-27 06:55:47,537	Batch Processor	INFO	Number of parallel processes: 2
+2022-04-27 06:55:51,888	Batch Processor	INFO	==============================        Search Results        ==============================
+2022-04-27 06:55:51,893	Batch Processor	INFO	==============================        Solution found        ==============================
+	- PRI_Barceloneta-1_3_T-1
+2022-04-27 06:55:51,896	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2022-04-27 06:55:51,898	Batch Processor	INFO	Total number of scenarios:  	         1
+2022-04-27 06:55:51,900	Batch Processor	INFO	Solution found:               	         1
+2022-04-27 06:55:51,902	Batch Processor	INFO	Solution found but invalid:   	         0
+2022-04-27 06:55:51,905	Batch Processor	INFO	Solution not found:           	         0
+2022-04-27 06:55:51,907	Batch Processor	INFO	Exception occurred:           	         0
+2022-04-27 06:55:51,910	Batch Processor	INFO	Time out:                     	         0

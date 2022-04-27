@@ -1,0 +1,20 @@
+2022-04-27 04:54:26,194	Batch Processor	INFO	Config file loaded and logger created.
+2022-04-27 04:54:26,211	Batch Processor	INFO	18 scenarios skipped.
+2022-04-27 04:54:26,213	Batch Processor	INFO	ScenarioLoader Mode <RANDOM>
+2022-04-27 04:54:26,217	Batch Processor	INFO	Processing 1 scenarios:
+2022-04-27 04:54:26,220	Batch Processor	INFO	   1 ITA_Siderno-8_3_T-1
+2022-04-27 04:54:26,244	Batch Processor	INFO	Automaton loaded for vehicle type: BMW_320i
+2022-04-27 04:54:26,246	Batch Processor	INFO	Motion planner: student
+2022-04-27 04:54:26,304	Batch Processor	INFO	Number of parallel processes: 2
+2022-04-27 04:54:27,520	Batch Processor	INFO	==============================        Search Results        ==============================
+2022-04-27 04:54:27,525	Batch Processor	INFO	[ITA_Siderno-8_3_T-1           ]	<EXCEPTION>	
+2022-04-27 04:54:27,530	Batch Processor	INFO	==============================      Exception occurred      ==============================
+	- ITA_Siderno-8_3_T-1
+2022-04-27 04:54:27,533	Batch Processor	INFO	
+==============================        Result Summary        ==============================
+2022-04-27 04:54:27,535	Batch Processor	INFO	Total number of scenarios:  	         1
+2022-04-27 04:54:27,538	Batch Processor	INFO	Solution found:               	         0
+2022-04-27 04:54:27,541	Batch Processor	INFO	Solution found but invalid:   	         0
+2022-04-27 04:54:27,543	Batch Processor	INFO	Solution not found:           	         0
+2022-04-27 04:54:27,545	Batch Processor	INFO	Exception occurred:           	         1
+2022-04-27 04:54:27,548	Batch Processor	INFO	Time out:                     	         0
